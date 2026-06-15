@@ -4,17 +4,14 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px" />
   Hey, I'm Chatresh Konchada
 </h1>
-<!-- Animated typing header -->
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Data+Analyst;AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </a>
 
+<p><em>B.Tech CSE (Data Science) · ANITS · Batch of 2027 · CGPA 9.50</em></p>
 
-<p align="center">
-  <em>B.Tech CSE (Data Science) · ANITS · Batch of 2027 · CGPA 9.50</em>
-</p>
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/chatresh-konchada-6075692aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -41,7 +38,7 @@
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 ```python
 class ChatreshKonchada:
@@ -62,9 +59,10 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
+
 <h3>💻 Languages</h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -73,9 +71,6 @@ me.say_hi()
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-</div>
-
-<div align="center">
 <h3>🎨 Frontend</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -83,18 +78,12 @@ me.say_hi()
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-</div>
-
-<div align="center">
-<h3>Backend & APIs</h3>
+<h3>⚙️ Backend & APIs</h3>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
-
-<div align="center">
 <h3>🗄️ Databases</h3>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -102,9 +91,6 @@ me.say_hi()
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 
-</div>
-
-<div align="center">
 <h3>🤖 AI / ML & Data</h3>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -114,9 +100,6 @@ me.say_hi()
 ![LLaMA](https://img.shields.io/badge/LLaMA_3.3-FF6B35?style=for-the-badge&logo=meta&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-00BFFF?style=for-the-badge&logo=meta&logoColor=white)
 
-</div>
-
-<div align="center">
 <h3>🔧 Tools & Platforms</h3>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -130,7 +113,7 @@ me.say_hi()
 
 ---
 
-## 🏆 Featured Projects
+<h2 align="center">🏆 Featured Projects</h2>
 
 <table>
 <tr>
@@ -201,11 +184,11 @@ Check out all my repositories for more work in data engineering, automation, and
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chatresh7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chatresh7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chatresh7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 
@@ -213,13 +196,13 @@ Check out all my repositories for more work in data engineering, automation, and
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chatresh7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6C37&currStreakLabel=00D9FF" />
+<img src="https://streak-stats.demolab.com/?user=Chatresh7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6C37&currStreakLabel=00D9FF" />
 
 </div>
 
 ---
 
-## 🏅 Achievements & Certifications
+<h2 align="center">🏅 Achievements & Certifications</h2>
 
 | 🏆 Achievement | 📅 Date |
 |---|---|
@@ -239,7 +222,7 @@ Check out all my repositories for more work in data engineering, automation, and
 
 ---
 
-## 💼 Experience
+<h2 align="center">💼 Experience</h2>
 
 **🔬 Inspire Softech Solutions** · *Data Analyst Intern* · `May 2026 – Jun 2026`
 > Power BI dashboards, Excel analytics, and visualization libraries for business reporting.
@@ -255,7 +238,7 @@ Check out all my repositories for more work in data engineering, automation, and
 
 ---
 
-## 🎓 Education
+<h2 align="center">🎓 Education</h2>
 
 ```
 🎓  B.Tech — Computer Science & Engineering (Data Science)
@@ -271,7 +254,7 @@ Check out all my repositories for more work in data engineering, automation, and
 
 ---
 
-## 🌐 Workshops & Conferences
+<h2 align="center">🌐 Workshops & Conferences</h2>
 
 - 🤖 **RPA Workshop – BotsDNA** · Built Parent-Child Bots for automation workflows
 - 📊 **Excelerate Workshop** · Conducted & volunteered — Excel + Power BI for 2 days
@@ -281,7 +264,7 @@ Check out all my repositories for more work in data engineering, automation, and
 
 <div align="center">
 
-### 💬 Let's Connect & Collaborate!
+<h2>💬 Let's Connect & Collaborate!</h2>
 
 <p>
   I'm always open to interesting conversations, collaborations, and opportunities.<br/>

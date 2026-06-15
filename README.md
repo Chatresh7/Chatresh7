@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 About Me
+<h3 align="center>🚀 About Me</h3>
 
 ```python
 class ChatreshKonchada:
@@ -62,7 +62,7 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack
+<h3 align="center>🛠️ Tech Stack</h3>
 
 <div align="center">
 <h3>💻 Languages</h3>
@@ -130,7 +130,7 @@ me.say_hi()
 
 ---
 
-## 🏆 Featured Projects
+<h3 align="center>🏆 Featured Projects </h3>
 
 <table>
 <tr>
@@ -190,7 +190,7 @@ Interactive Power BI dashboard with batting, bowling, team & player analytics ac
 </td>
 <td width="50%">
 
-### 💡 More Projects
+<h3 align="center>💡 More Projects</h3>
 Check out all my repositories for more work in data engineering, automation, and full-stack development!
 
 [![View All](https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chatresh7?tab=repositories)
@@ -201,7 +201,7 @@ Check out all my repositories for more work in data engineering, automation, and
 
 ---
 
-## 📈 GitHub Stats
+<h3 align="center>📈 GitHub Stats</h3>
 
 <div align="center">
 
@@ -219,7 +219,7 @@ Check out all my repositories for more work in data engineering, automation, and
 
 ---
 
-## 🏅 Achievements & Certifications
+<h3 align="center>🏅 Achievements & Certifications</h3>
 
 | 🏆 Achievement | 📅 Date |
 |---|---|
@@ -239,7 +239,7 @@ Check out all my repositories for more work in data engineering, automation, and
 
 ---
 
-## 💼 Experience
+<h3 align="center>💼 Experience</h3>
 
 **🔬 Inspire Softech Solutions** · *Data Analyst Intern* · `May 2026 – Jun 2026`
 > Power BI dashboards, Excel analytics, and visualization libraries for business reporting.
@@ -255,7 +255,7 @@ Check out all my repositories for more work in data engineering, automation, and
 
 ---
 
-## 🎓 Education
+<h3 align="center>🎓 Education</h3>
 
 ```
 🎓  B.Tech — Computer Science & Engineering (Data Science)
@@ -271,7 +271,7 @@ Check out all my repositories for more work in data engineering, automation, and
 
 ---
 
-## 🌐 Workshops & Conferences
+<h3 align="center>🌐 Workshops & Conferences</h3>
 
 - 🤖 **RPA Workshop – BotsDNA** · Built Parent-Child Bots for automation workflows
 - 📊 **Excelerate Workshop** · Conducted & volunteered — Excel + Power BI for 2 days
@@ -281,7 +281,7 @@ Check out all my repositories for more work in data engineering, automation, and
 
 <div align="center">
 
-### 💬 Let's Connect & Collaborate!
+<h3 align="center>💬 Let's Connect & Collaborate!</h3>
 
 <p>
   I'm always open to interesting conversations, collaborations, and opportunities.<br/>

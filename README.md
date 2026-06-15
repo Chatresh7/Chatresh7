@@ -1,14 +1,14 @@
 <div align="center">
 
+<h1>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px" />
+  Hey, I'm Chatresh Konchada
+</h1>
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Data+Analyst;AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </a>
 
-<h1>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px" />
-  Hey, I'm Chatresh Konchada
-</h1>
 
 <p align="center">
   <em>B.Tech CSE (Data Science) · ANITS · Batch of 2027 · CGPA 9.50</em>

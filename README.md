@@ -120,7 +120,7 @@ me.say_hi()
 <td width="50%">
 
 ### 🤖 AI Career Guidance System
-[![Live](https://img.shields.io/badge/🔴_Live-00D9FF?style=flat-square)](https://chatreshk.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Chatresh7)
+[![Live](https://img.shields.io/badge/🔴_Live-00D9FF?style=flat-square)](https://ai-powered-career-guidance-hackholics.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Chatresh7/AI_Career_Guidance)
 
 An AI-powered platform that helps users discover career paths based on their skills & interests. Resume analysis, skill gap detection, and personalized roadmaps — all in one.
 
@@ -130,7 +130,7 @@ An AI-powered platform that helps users discover career paths based on their ski
 <td width="50%">
 
 ### 🚗 Ride Now – Ride Sharing Platform
-[![Live](https://img.shields.io/badge/🔴_Live-00D9FF?style=flat-square)](https://chatreshk.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Chatresh7)
+[![Live](https://img.shields.io/badge/🔴_Live-00D9FF?style=flat-square)](https://ridenow-nu.vercel.app/login) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Chatresh7/ridenow)
 
 Uber-like web app with real-time driver-rider matching via WebSockets, live GPS tracking, JWT auth with RBAC, and an admin fleet management panel.
 
@@ -142,7 +142,7 @@ Uber-like web app with real-time driver-rider matching via WebSockets, live GPS 
 <td width="50%">
 
 ### 🧠 EduBot – RAG-Based EdTech Assistant
-[![Live](https://img.shields.io/badge/🔴_Live-00D9FF?style=flat-square)](https://chatreshk.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Chatresh7)
+[![Live](https://img.shields.io/badge/🔴_Live-00D9FF?style=flat-square)](https://edtech-bot.streamlit.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Chatresh7/edtech-bot)
 
 A Retrieval-Augmented Generation chatbot that answers platform queries from a structured knowledge base using vector search + LLM.
 
@@ -152,7 +152,7 @@ A Retrieval-Augmented Generation chatbot that answers platform queries from a st
 <td width="50%">
 
 ### 🤖 Bill Payment Automation Bot
-[![Demo](https://img.shields.io/badge/🎥_Demo-FF6C37?style=flat-square)](https://chatreshk.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Chatresh7)
+[![Demo](https://img.shields.io/badge/🎥_Demo-FF6C37?style=flat-square)](https://www.linkedin.com/posts/chatresh-konchada-6075692aa_rpa-automation-botsdna-ugcPost-7306697392207122432-HIAK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEp6QicB_B6mSRQpE8OYiOeyekp48VX_Fi4) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://www.linkedin.com/posts/chatresh-konchada-6075692aa_rpa-automation-botsdna-ugcPost-7306697392207122432-HIAK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEp6QicB_B6mSRQpE8OYiOeyekp48VX_Fi4)
 
 End-to-end RPA with Parent & Child Bots automating bill payment workflows — PDF extraction, form filling, exception handling, and Excel reporting.
 
@@ -164,7 +164,7 @@ End-to-end RPA with Parent & Child Bots automating bill payment workflows — PD
 <td width="50%">
 
 ### 📊 IPL Dashboard (2008–2025)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Chatresh7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Chatresh7/ipl_dashboard)
 
 Interactive Power BI dashboard with batting, bowling, team & player analytics across 17 IPL seasons. KPI cards, dynamic filters, and points tables.
 

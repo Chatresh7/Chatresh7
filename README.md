@@ -186,39 +186,93 @@ Check out all my repositories for more work in data engineering, automation, and
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Chatresh7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chatresh7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chatresh7&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chatresh7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Chatresh7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6C37&currStreakLabel=00D9FF" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chatresh7&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 <h2 align="center">🏅 Achievements & Certifications</h2>
 
-| 🏆 Achievement | 📅 Date |
-|---|---|
-| 🥈 **2nd Prize – Smart India Hackathon (SIH 2026)** @ ANITS College Level | Dec 2025 |
-| 🥇 **1st Prize – Technical Quiz** at Spirit 2K26 (70+ participants) | Jan 2024 |
-| 🔟 **Top 10 – TecNova National Hackathon** (150+ teams) | Nov 2025 |
+<div align="center">
 
-| 📜 Certification | 🏢 Issuer |
-|---|---|
-| Deloitte Data Analytics Job Simulation | Deloitte |
-| Prompt Engineering | Coursera |
-| Programming with JavaScript | Coursera |
-| Python DSA | Udemy |
-| Python (Basic) | HackerRank |
-| Java (Basic) | HackerRank |
-| SQL (Basic) | HackerRank |
+<table>
+<tr>
+<th>🏆 Achievement</th>
+<th>📅 Date</th>
+</tr>
+
+<tr>
+<td>🥈 2nd Prize – Smart India Hackathon (SIH 2026) @ ANITS College Level</td>
+<td>Dec 2025</td>
+</tr>
+
+<tr>
+<td>🥇 1st Prize – Technical Quiz at Spirit 2K26 (70+ participants)</td>
+<td>Jan 2024</td>
+</tr>
+
+<tr>
+<td>🔟 Top 10 – TecNova National Hackathon (150+ teams)</td>
+<td>Nov 2025</td>
+</tr>
+
+</table>
+
+<br>
+
+<table>
+<tr>
+<th>📜 Certification</th>
+<th>🏢 Issuer</th>
+</tr>
+
+<tr>
+<td>Deloitte Data Analytics Job Simulation</td>
+<td>Deloitte</td>
+</tr>
+
+<tr>
+<td>Prompt Engineering</td>
+<td>Coursera</td>
+</tr>
+
+<tr>
+<td>Programming with JavaScript</td>
+<td>Coursera</td>
+</tr>
+
+<tr>
+<td>Python DSA</td>
+<td>Udemy</td>
+</tr>
+
+<tr>
+<td>Python (Basic)</td>
+<td>HackerRank</td>
+</tr>
+
+<tr>
+<td>Java (Basic)</td>
+<td>HackerRank</td>
+</tr>
+
+<tr>
+<td>SQL (Basic)</td>
+<td>HackerRank</td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 

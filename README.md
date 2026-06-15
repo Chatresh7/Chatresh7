@@ -188,15 +188,17 @@ Check out all my repositories for more work in data engineering, automation, and
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Chatresh7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chatresh7&layout=compact&theme=tokyonight&hide_border=true"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chatresh7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chatresh7&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Chatresh7&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chatresh7&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 ---
 

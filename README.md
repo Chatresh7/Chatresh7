@@ -185,17 +185,14 @@ Check out all my repositories for more work in data engineering, automation, and
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Chatresh7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Chatresh7&show_icons=true&theme=tokyonight&hide_border=true"
   />
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chatresh7&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chatresh7&theme=tokyo-night&hide_border=true" />
 </p>
